@@ -1,0 +1,20 @@
+Assignment Name - Responsive WhatsApp
+
+Problem Statement -
+
+As per assignment i designed Resposive whatsapp using Bootstrap (https://getbootstrap.com).
+
+Project Details - 
+
+index.php
+1) In <nav> section i designed header of the whatsapp clone
+2) Inside above section Four tabs i used
+	a) First tab for "Chats" displaying all the chat messages wth contains unread messages, video calls, images sends.
+	b) Second tab for MyChat (an individual chat).
+	c) Third tab for view to change the profile picture.
+	d) Fourth tab for show status section.
+
+Style.css
+
+1) Custom some design and resposive code.
+
